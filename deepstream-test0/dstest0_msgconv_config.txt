@@ -1,0 +1,13 @@
+
+[sensor0]
+enable=1
+type=Camera_1
+id=CAMERA_ID_1
+description="Entrance of Garage Right Lane"
+
+[sensor1]
+enable=1
+type=Camera_2
+id=CAMERA_ID_2
+description="Entrance of Garage Right Lane"
+
